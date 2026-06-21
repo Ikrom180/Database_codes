@@ -18,4 +18,4 @@ FROM ibs.accounts a
     JOIN ibs.vits_currency v on v.code = a.code_currency
     LEFT JOIN ibs.bc_agreements b on b.client_id = c.id
     LEFT JOIN ibs.special_accounts s on s.acc_id = a.id
-;
+; .
