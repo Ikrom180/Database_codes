@@ -3,6 +3,7 @@
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/database.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/indexation.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/rollup.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/subqueries.sql" dialect="GenericSQL" />
   </component>
 </project>
